@@ -56,6 +56,7 @@
 ## PERSONAL PROJECTS  
 **Python**
 - Sorting algorithms visualiser for Bubble, Insertion, Selection and Quick sort
+- [Space Invaders game](https://spacemonster.netlify.app)
 - Hangman game supporting 100,000+ words that showed the word definition at game
 completion
 
