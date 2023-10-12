@@ -1,6 +1,6 @@
 # xfoofoo.github.io
 
-#### KEY SKILLS
+## KEY SKILLS
 - Python, C++, Java
 - Typescript/JS/HTML/CSS
 - PostgreSQL
