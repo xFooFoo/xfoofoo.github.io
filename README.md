@@ -21,7 +21,7 @@ Majors: Accounting, Finance and Computer Science
 - First in Course Award for COMPSCI225: Discrete Structures in Maths
 
 ### WORK & PROJECT EXPERIENCE
-# Revenue Analyst Nov 2021 – Jun 2023
+#### Revenue Analyst Nov 2021 – Jun 2023
 # KiwiRail
 - Maintained rate schedules for Key Account Executives to ensure correct customer billing
 - Improved and created new processes using Excel formulas and VBA macros
