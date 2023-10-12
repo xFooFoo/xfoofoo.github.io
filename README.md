@@ -10,9 +10,9 @@
 - Fluent in English and Mandarin Chinese
 
 ## EDUCATION
-University of Auckland Mar 2017 – Nov 2021  
-Bachelor of Commerce and Science conjoint  
-Majors: Accounting, Finance and Computer Science  
+**University of Auckland Mar 2017 – Nov 2021**  
+**Bachelor of Commerce and Science conjoint**  
+**Majors: Accounting, Finance and Computer Science**
 - Overall Commerce GPA: 7.3 (A-)
 - Overall Science GPA: 7.9 (A)
 - ESET Chillisoft Scholarship in Cyber Security
