@@ -8,8 +8,9 @@
   - [Play now](https://spacemonster.netlify.app)
   - [Source code](https://github.com/xFooFoo/Space-Invaders)
 - Hangman game supporting 100,000+ words that showed the word definition at game completion
-  - [Source code](https://github.com/xFooFoo/Hangman)
-<br>
+  - [Source code](https://github.com/xFooFoo/Hangman) <br>
+
+
 ### C++
 - Tetris game with SFX, music, hold block, hard drop and speed progression features
   - [Source code](https://github.com/xFooFoo/Tetris)
