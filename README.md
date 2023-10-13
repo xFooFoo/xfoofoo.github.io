@@ -10,8 +10,7 @@
 - Hangman game supporting 100,000+ words that showed the word definition at game completion
   - [Source code](https://github.com/xFooFoo/Hangman)
 <br>
-<br>
-###C++
+### C++
 - Tetris game with SFX, music, hold block, hard drop and speed progression features
   - [Source code](https://github.com/xFooFoo/Tetris)
 - Retro Snake game with a scoring and difficulty system
