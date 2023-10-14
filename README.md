@@ -13,6 +13,7 @@
 
 ### C++
 - Tetris game with SFX, music, hold block, hard drop and speed progression features
+  - [Play now](https://arcade-tetris.netlify.app/)
   - [Source code](https://github.com/xFooFoo/Tetris)
 - Retro Snake game with a scoring and difficulty system
   - [Play now](https://retro-snake.netlify.app/)
