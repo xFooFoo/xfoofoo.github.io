@@ -3,20 +3,3 @@ logo: /assets/img/profile_pic.jpg
 #description
 show_downloads: false
 theme: jekyll-theme-minimal
-
-@media (prefers-color-scheme: light) {
-  body {
-    /*
-    --color-canvas-default, copied from 
-    https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown.css
-    */
-    background-color: #ffffff;
-  }
-}
-
-@media (prefers-color-scheme: dark) {
-  body {
-    /* --color-canvas-default */
-    background-color: #0d1117;
-  }
-}
