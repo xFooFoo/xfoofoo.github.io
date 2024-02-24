@@ -2,4 +2,4 @@ title: Yariv Fu
 logo: /assets/img/profile_pic.jpg
 #description
 show_downloads: false
-theme: minima
+theme: jekyll-theme-minimal
