@@ -16,7 +16,7 @@
 - [Pong game with AI support](https://github.com/xFooFoo/Pong-Game)
 
 ### TypeScript/JavaScript
-- [Pomodoro Clock - a timer for 5 minutes of break every 25 minutes of study]
+- [Pomodoro Clock - a timer for 5 minutes of break every 25 minutes of study](https://github.com/xFooFoo/PomodoroFlow)
   - [LIVE](https://pomodoroflow.netlify.app/)
 - [Calculator that can perform basic operations](https://github.com/xFooFoo/CalculatorJS)
   - [LIVE](https://jscalator.netlify.app/)
