@@ -6,7 +6,7 @@
 - [Space Invaders game with global highscore system and UI](https://github.com/xFooFoo/Space-Invaders)
   - [Play now](https://spacemonster.netlify.app)
 - [Hangman game supporting 100,000+ words that showed the word definition at game completion](https://github.com/xFooFoo/Hangman)<br><br>
-- [NZHerald Article Scraper - scrapes any_NZH article to a text file](https://github.com/xFooFoo/NZHerald-Article-Scraper/tree/main)
+- [NZHerald Article Scraper - scrapes **any** NZH article to a text file](https://github.com/xFooFoo/NZHerald-Article-Scraper/tree/main)
 
 ### C++
 - [Tetris game with music, hold block, hard drop and speed progression!](https://github.com/xFooFoo/Tetris)
