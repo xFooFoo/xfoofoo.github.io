@@ -18,6 +18,8 @@
 - [Pong game with AI support](https://github.com/xFooFoo/Pong-Game)
 
 ### TypeScript/JavaScript
+- [Conway's Game of Life](https://github.com/xFooFoo/Conway-s-Game-of-Life)
+  - [LIVE](https://gameoflives.netlify.app/)
 - [Pomodoro Clock - a timer for 5 minutes of break every 25 minutes of study](https://github.com/xFooFoo/PomodoroFlow)
   - [LIVE](https://pomodoroflow.netlify.app/)
 
